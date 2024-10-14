@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ElectionSurvey</string>
+    <string name="pageName">Pesquisa Eleitoral Eletrônica Intenção de Votos</string>
+    <string name="fullName">Digite seu nome completo: </string>
+    <string name="hintName">Digite aqui o nome</string>
+    <string name="tituloEleitor">Digite o número do seu título de eleitor: </string>
+    <string name="numeroZona">Digite o número da Zona do título: </string>
+    <string name="nomeCidade">Digite o nome da cidade: </string>
+    <string name="numeroSecao">Digite o número da Seção do título: </string>
+    <string name="enterTitulo">Digite aqui o número</string>
+    <string name="sectionOne">Dados Pessoais</string>
+    <string name="sectionTwo">Intenções de Voto</string>
+    <string name="nomePrefeito">Escolha o seu prefeito: </string>
+    <string name="nomeVereador">Escolha o seu vereador: </string>
+    <string name="enterEstado">Escolha o seu estado: </string>
+    <string name="nomePartido">Escolha o seu partido: </string>
+    <string name="button"> Enviar </string>
+
+    <string-array name="estados">
+        <item>Manaus</item>
+        <item>Acre</item>
+        <item>Roraima</item>
+        <item>Rondônia</item>
+        <item>Amapá</item>
+        <item>Pará</item>
+        <item>Maranhão</item>
+        <item>Paraíba</item>
+        <item>Bahia</item>
+        <item>São Paulo</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Goiás</item>
+        <item>Tocantins</item>
+        <item>Rio de Janeiro</item>
+        <item>Minas Gerais</item>
+        <item>Rio Grande do Sul</item>
+        <item>Paraná</item>
+        <item>Santa Catarina</item>
+        <item>Ceará</item>
+        <item>Piauí</item>
+        <item>Pernambuco</item>
+        <item>Rio Grande do Norte</item>
+        <item>Espírito Santo</item>
+        <item>Sergipe</item>
+        <item>Distrito Federal</item>
+        <item>Alagoas</item>
+    </string-array>
+    <string-array name="prefeitos">
+        <item>77 Iris Rezende</item>
+        <item>55 Maguito Vilela</item>
+        <item>33 Eduardo Puccinelli</item>
+        <item>11 Jorge Campos</item>
+    </string-array>
+    <string-array name="vereador">
+        <item>77777 Paulo Rezende</item>
+        <item>77444 Pedro Rezende</item>
+        <item>77555 Maria Rezende</item>
+        <item>77666 Joaquim Rezende</item>
+        <item>55777 Paulo Vilela</item>
+        <item>55444 Pedro Rezende</item>
+        <item>55555 Maria Rezende</item>
+        <item>55666 Joaquim Rezende</item>
+        <item>33777 Paulo Puccinelli</item>
+        <item>33444 Pedro Puccinelli</item>
+        <item>33555 Maria Puccinelli</item>
+        <item>33666 Joaquim Puccinelli</item>
+        <item>11777 Paulo Campos</item>
+        <item>11444 Pedro Campos</item>
+        <item>11555 Maria Campos</item>
+        <item>11666 Joaquim Campos</item>
+    </string-array>
+    <string-array name="partidos">
+        <item>77 SSDB</item>
+        <item>55 PDV</item>
+        <item>33 TNF</item>
+        <item>11 Novo</item>
+    </string-array>
+</resources>

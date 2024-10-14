@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:layout_marginBottom">50dp</item>
+        <item name="backgroundTint">@color/blue</item>
+    </style>
+    <style name="namePage">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textSection">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+    <style name="textQuestion">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+    <style name="textEdit">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+    <style name="textResult">
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:justificationMode">inter_word</item>
+    </style>
+</resources>
